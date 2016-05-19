@@ -1,8 +1,13 @@
-var add = function(number1, number2) {
-	return number1 + number2;
-};
-
-var number1 = parseInt(prompt("Enter a number:"));
-var number2 = parseInt(prompt("Enter another number:"));
-var result = add(number1, number2);
-alert(result);
+$(document).ready(function() {
+  $(".clickable").click(function() {
+    $("#walrus-showing").toggle();
+    $("#walrus-hidden").toggle();
+  });
+	$(".read-more").click(function(){
+		$("#text-hidden").toggle();
+		$("#text-hidden").toggleClass("red-border");
+	});
+	$("button").click(function(){
+		$("body").toggleClass("dark-background");
+	});
+});

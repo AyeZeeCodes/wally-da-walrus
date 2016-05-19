@@ -1,34 +1,28 @@
-# _Calculator_
+# _Wally the Walrus - A Wesite_
 
-#### _A JavaScript application for a calculator, May 18th 2016_
+#### _Website for Wally, a Privateer, May 18th 2016_
 
 #### By _**Alex Zerbach and J. Ryan Conklin**_
 
 ## Description
 
-_This is a JavaScript application for a calculator, utilizing lessons learned at Epicodus_
+_This is a website made at Epicodus to integrate JavaScript, HTML, CSS and Bootstrap._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_Load the webpage!_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No one actually lives to tell the story of Wally, so lorem ipsum text  has been included under Read More._
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Contact Alex or Ryan to talk about the secret story of Wally._
 
 ## Technologies Used
 
-_JavaScript, and HTML._
+_JavaScript, CSS, Bootstrap and HTML._
 
 ### License
 

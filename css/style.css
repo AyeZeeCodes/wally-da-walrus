@@ -1,0 +1,32 @@
+#walrus-showing  {
+  display: none;
+}
+
+.clickable,
+.read-more {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover,
+.read-more:hover {
+  text-decoration: underline;
+}
+
+#text-hidden {
+  display: none;
+}
+
+.dark-background {
+  background-color: #9E90D4;
+  color: white;
+}
+.red-border {
+  border: 5px solid #0A2694;
+  background: #F9F9F9;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+.dark-background .red-border {
+  color: black;
+}
